@@ -1,6 +1,6 @@
-- 👋 Hi, I’m William and I’m interested in Front End Development
+👋 Hi, I’m William and I’m a fullstack developer.
 
 
--I’m currently learning JavaScript, React and other front-end tools and looking to start in the industry. Feel free to take a look at my code and you can see the live projects on my website here! - williamsessions.com
+I love creating visual and engaging applications with emphasis on user experience and accessibility. I have led the design and creation of several projects, producing , working with Bootstrapand SCSS - williamsessions.com
 
 
